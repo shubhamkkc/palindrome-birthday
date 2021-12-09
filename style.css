@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+  height: 100vh;
+  background-color: white;
+  color: #000000;
+}
+
+main {
+  border: 1px solid #050505;
+  border-radius: 1rem;
+  text-align: center;
+  height: 100%;
+}
+
+p {
+  padding: 2rem;
+  text-align: left;
+  font-size: large;
+}
+#bday-input{
+  border: 2px solid #000000;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  outline: #000000;
+  margin:1rem;
+}
+#show-btn{
+  display: block;
+  margin: auto;
+  background-color: #3babaf;
+  border: 2px solid #080808;
+  border-radius: 1rem;
+  padding: 0.25rem;
+}
